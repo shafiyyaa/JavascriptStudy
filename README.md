@@ -7,27 +7,13 @@ This repository contains all the materials and projects related to my JavaScript
 - **Exercises:** Various exercises and coding challenges completed during the course.
 - **Projects:** Mini projects and applications developed as part of the learning process.
 
-## Course Topics
+## Mini Projects
 
-1. **Introduction to JavaScript:**
-   - Basics of JavaScript
-   - Variables and Data Types
-   - Operators and Expressions
-
-2. **Control Structures:**
-   - Conditional Statements
-   - Loops
-
-3. **Functions:**
-   - Defining and Calling Functions
-   - Function Scope and Closures
-
-4. **Objects and Arrays:**
-   - Working with Objects
-   - Array Methods and Iteration
-
-5. **DOM Manipulation:**
-   - Selecting and Manipulating DOM Elements
-   - Event Handling
+- Array Manipulation: Demonstrating various array methods.
+- Odd-Even Checker: A simple program to check if a number is odd or even.
+- Nested Conditions: Example of using nested conditional statements.
+- XO Counter: A JavaScript function to count the occurrences of the letters 'X' and 'O' in a given string. 
+- Vowel Counter: Program to count vowels in a given string.
+- Case Study - Case & If Else: Practical application of Case and if-else conditions in real scenarios.
 
 
