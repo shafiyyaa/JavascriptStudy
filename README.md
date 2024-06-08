@@ -9,7 +9,7 @@ This repository contains all the materials and projects related to my JavaScript
 
 ## Mini Projects
 
-- Array Manipulation: Demonstrating various array methods.
+- Array Manipulation: Demonstrating array methods.
 - Odd-Even Checker: A simple program to check if a number is odd or even.
 - Nested Conditions: Example of using nested conditional statements.
 - XO Counter: A JavaScript function to count the occurrences of the letters 'X' and 'O' in a given string. 
